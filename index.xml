@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rubenbos.co blog</title>
+    <link>http://rubenbos.co/blog/</link>
+    <description>Recent content on rubenbos.co blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Jul 2018 13:09:33 +0000</lastBuildDate>
+    
+	<atom:link href="http://rubenbos.co/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://rubenbos.co/blog/about/</link>
+      <pubDate>Fri, 27 Jul 2018 13:09:33 +0000</pubDate>
+      
+      <guid>http://rubenbos.co/blog/about/</guid>
+      <description>Hello world</description>
+    </item>
+    
+    <item>
+      <title>🙌 Go blog</title>
+      <link>http://rubenbos.co/blog/posts/goblog/</link>
+      <pubDate>Thu, 26 Jul 2018 21:28:24 +0000</pubDate>
+      
+      <guid>http://rubenbos.co/blog/posts/goblog/</guid>
+      <description>If you would&amp;rsquo;ve Googled me ten years ago, you probably would&amp;rsquo;ve ended up on my personal blog. Slowly this personal blog got replaced by all sorts of (social) channels. Facebook. Tumblr. Medium. And website builders like Squarespace. I don&amp;rsquo;t mind using these channels and services, but I regret neglecting and eventually ditching my blog. I think it&amp;rsquo;s healthy to keep some sort of archive. And it&amp;rsquo;s fun right, having this place on the web that&amp;rsquo;s really yours.</description>
+    </item>
+    
+  </channel>
+</rss>
